@@ -109,7 +109,7 @@ The main configuration file is called `jellyfinmediaplayer.conf`. You can also a
  - Windows: `%LOCALAPPDATA%\JellyfinMediaPlayer\`
  - Linux: `~/.local/share/jellyfinmediaplayer/`
  - Linux (Flatpak): `~/.var/app/com.github.iwalton3.jellyfin-media-player/data/jellyfinmediaplayer/`
- - macOS: `~/Library/Application Support/Jellyfin Media Player/`
+ - macOS: `~/Library/Application Support/Terminus Player/`
 
 ## Web Debugger
 
