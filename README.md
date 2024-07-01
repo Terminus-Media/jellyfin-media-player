@@ -100,7 +100,7 @@ python3 ./scripts/fix-install-names.py ./build/output/Jellyfin\ Media\ Player.ap
  - Windows: `%LOCALAPPDATA%\JellyfinMediaPlayer\logs`
  - Linux: `~/.local/share/jellyfinmediaplayer/logs/`
  - Linux (Flatpak): `~/.var/app/com.github.iwalton3.jellyfin-media-player/data/jellyfinmediaplayer/logs/`
- - macOS: `~/Library/Logs/Jellyfin Media Player/`
+ - macOS: `~/Library/Logs/Terminus Player/`
 
 ## Config File Location
 
@@ -109,7 +109,7 @@ The main configuration file is called `jellyfinmediaplayer.conf`. You can also a
  - Windows: `%LOCALAPPDATA%\JellyfinMediaPlayer\`
  - Linux: `~/.local/share/jellyfinmediaplayer/`
  - Linux (Flatpak): `~/.var/app/com.github.iwalton3.jellyfin-media-player/data/jellyfinmediaplayer/`
- - macOS: `~/Library/Application Support/Jellyfin Media Player/`
+ - macOS: `~/Library/Application Support/Terminus Player/`
 
 ## Web Debugger
 
