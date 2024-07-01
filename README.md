@@ -100,7 +100,7 @@ python3 ./scripts/fix-install-names.py ./build/output/Jellyfin\ Media\ Player.ap
  - Windows: `%LOCALAPPDATA%\JellyfinMediaPlayer\logs`
  - Linux: `~/.local/share/jellyfinmediaplayer/logs/`
  - Linux (Flatpak): `~/.var/app/com.github.iwalton3.jellyfin-media-player/data/jellyfinmediaplayer/logs/`
- - macOS: `~/Library/Logs/Jellyfin Media Player/`
+ - macOS: `~/Library/Logs/Terminus Player/`
 
 ## Config File Location
 
